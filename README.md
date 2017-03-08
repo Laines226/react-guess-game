@@ -1,0 +1,1 @@
+<p align="center">A small simple React.js boilerplate fo my own </p>
